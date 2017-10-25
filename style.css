@@ -1,3 +1,24 @@
 body {
   background-color: #5171A5;
 }
+
+#welcome {
+  text-align: center;
+}
+
+.computer {
+  text-align: center;
+  position: relative;
+}
+
+#name_greeting {
+  font-size: 36px;
+  font-family: sans-serif;
+  color: #FFF;
+  left: 0;
+  position:absolute;
+  text-align:center;
+  top: 15%;
+  width: 100%
+
+}
